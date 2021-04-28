@@ -1,0 +1,12 @@
+/Users/fyy/Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.deps.json
+/Users/fyy/Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.runtimeconfig.json
+/Users/fyy/Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.runtimeconfig.dev.json
+/Users/fyy/Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.dll
+/Users/fyy/Projects/Generic/Generic/bin/Debug/netcoreapp3.1/Generic.pdb
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.csprojAssemblyReference.cache
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.AssemblyInfoInputs.cache
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.AssemblyInfo.cs
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.csproj.CoreCompileInputs.cache
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.dll
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.pdb
+/Users/fyy/Projects/Generic/Generic/obj/Debug/netcoreapp3.1/Generic.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/fyy/Projects/Clock/Clock/bin/Debug/netcoreapp3.1/Clock.deps.json
+/Users/fyy/Projects/Clock/Clock/bin/Debug/netcoreapp3.1/Clock.runtimeconfig.json
+/Users/fyy/Projects/Clock/Clock/bin/Debug/netcoreapp3.1/Clock.runtimeconfig.dev.json
+/Users/fyy/Projects/Clock/Clock/bin/Debug/netcoreapp3.1/Clock.dll
+/Users/fyy/Projects/Clock/Clock/bin/Debug/netcoreapp3.1/Clock.pdb
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.csprojAssemblyReference.cache
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.AssemblyInfoInputs.cache
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.AssemblyInfo.cs
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.csproj.CoreCompileInputs.cache
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.dll
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.pdb
+/Users/fyy/Projects/Clock/Clock/obj/Debug/netcoreapp3.1/Clock.genruntimeconfig.cache
