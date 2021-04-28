@@ -1,0 +1,12 @@
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.csprojAssemblyReference.cache
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.AssemblyInfoInputs.cache
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.AssemblyInfo.cs
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.csproj.CoreCompileInputs.cache
+/Users/fyy/Projects/GetValue/GetValue/bin/Debug/netcoreapp3.1/GetValue.deps.json
+/Users/fyy/Projects/GetValue/GetValue/bin/Debug/netcoreapp3.1/GetValue.runtimeconfig.json
+/Users/fyy/Projects/GetValue/GetValue/bin/Debug/netcoreapp3.1/GetValue.runtimeconfig.dev.json
+/Users/fyy/Projects/GetValue/GetValue/bin/Debug/netcoreapp3.1/GetValue.dll
+/Users/fyy/Projects/GetValue/GetValue/bin/Debug/netcoreapp3.1/GetValue.pdb
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.dll
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.pdb
+/Users/fyy/Projects/GetValue/GetValue/obj/Debug/netcoreapp3.1/GetValue.genruntimeconfig.cache

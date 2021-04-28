@@ -1,0 +1,12 @@
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.deps.json
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.runtimeconfig.json
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.runtimeconfig.dev.json
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.dll
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/bin/Debug/netcoreapp3.1/PrimeFactor.pdb
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.csprojAssemblyReference.cache
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.AssemblyInfoInputs.cache
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.AssemblyInfo.cs
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.csproj.CoreCompileInputs.cache
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.dll
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.pdb
+/Users/fyy/Projects/PrimeFactor/PrimeFactor/obj/Debug/netcoreapp3.1/PrimeFactor.genruntimeconfig.cache
