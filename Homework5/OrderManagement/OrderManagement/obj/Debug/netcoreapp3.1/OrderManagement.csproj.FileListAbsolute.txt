@@ -1,0 +1,12 @@
+/Users/fyy/Projects/OrderManagement/OrderManagement/bin/Debug/netcoreapp3.1/OrderManagement.deps.json
+/Users/fyy/Projects/OrderManagement/OrderManagement/bin/Debug/netcoreapp3.1/OrderManagement.runtimeconfig.json
+/Users/fyy/Projects/OrderManagement/OrderManagement/bin/Debug/netcoreapp3.1/OrderManagement.runtimeconfig.dev.json
+/Users/fyy/Projects/OrderManagement/OrderManagement/bin/Debug/netcoreapp3.1/OrderManagement.dll
+/Users/fyy/Projects/OrderManagement/OrderManagement/bin/Debug/netcoreapp3.1/OrderManagement.pdb
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.csprojAssemblyReference.cache
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.AssemblyInfoInputs.cache
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.AssemblyInfo.cs
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.csproj.CoreCompileInputs.cache
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.dll
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.pdb
+/Users/fyy/Projects/OrderManagement/OrderManagement/obj/Debug/netcoreapp3.1/OrderManagement.genruntimeconfig.cache
